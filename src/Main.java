@@ -1,5 +1,5 @@
 import java.util.Random;
-// kolla om det blir någon förändring nu
+// kolla om det blir någon förändring nu, andra gången
 public class Main {
 
 	public static void main(String[] args) {
@@ -13,7 +13,7 @@ public class Main {
 			
 				System.out.println("This number is odd " + value);
 			}
-			System.out.println("nu är jag klar");
+			System.out.println("nu är jag klar, ännu en gång");
 	}
 		
 }
